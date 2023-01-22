@@ -6,7 +6,7 @@ Como já diz o título, essse foi meu primeiro contato com o **framework bootstr
 
 ### O que eu aprendi?
 
-Aprendi a instalar e a manusear essa ferramenta maravilhosa. Ainda tenho muito a caminha, mais foi um excelente inicío.
+Aprendi a instalar e a manusear essa ferramenta maravilhosa. Ainda tenho muito a caminhar, mais foi um excelente inicío.
 
 Criei nesse projeto toda a base com **bootstrap**, e algumas customizações com **css**. 
 
