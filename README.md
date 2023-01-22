@@ -1,6 +1,6 @@
 # projetoBootstrap
 
-## Primeiro projeto feito em bootstrap
+## Primeiro projeto feito com bootstrap
 
 Como já diz o título, essse foi meu primeiro contato com o **framework bootstrap**. 
 
