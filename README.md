@@ -12,6 +12,12 @@ Criei nesse projeto toda a base com **bootstrap**, e algumas customizações com
 
 Achei muito interessante a forma de estruturar o site com essa ferramenta, criei título, corpo e rodapé. Aprendi e entendi como manusear o grid do site e também fiz uso do "Card" para apresentar informações de forma mais dinâmica, além de criar tabelas.
 
+### Complemento do projeto
+
+#### Acrescentando mais funcionalidade ao projeto. 
+
+Consegui aprimorar o formulário, utilizei componentes do **bootstrap** e adicionei a página o **carousel** que deixou o projeto ainda mais elegante. Também fiz uso do **requared** para tornar campos de preenchimento obrigatórios e **sigo aprendendo e evoluindo nesse framework maravilhoso chamado bootstrao.**
+
 
 
 

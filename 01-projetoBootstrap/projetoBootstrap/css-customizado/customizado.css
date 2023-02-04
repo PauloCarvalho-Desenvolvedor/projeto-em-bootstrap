@@ -1,5 +1,9 @@
 
 
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
 section{
     padding-top: 4rem;
     padding-bottom: 5rem;
@@ -14,6 +18,11 @@ header{
     padding: 1rem;
     width: 100%;
 
+}
+
+#home div img{
+    width: 100vw;
+    height: 33rem;
 }
 
 .btn{
@@ -58,7 +67,12 @@ header{
 }
 
 #contato{
-    height: 400px;
+    height:auto;
+}
+
+textarea.form-control {
+    width: 100% !important;
+
 }
 
 .footer-p{
@@ -76,7 +90,3 @@ thead{
 tbody{
     background-color: rgb(255, 255, 0);
 }
-
-
-
-
